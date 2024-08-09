@@ -1,3 +1,11 @@
+# Projeto de Aplicação
+
+Projeto desenvolvido como conclusão da disciplina de Inteligência Artificial e Tecnologia na Medicina.
+
+Professores: Flávio Seixas, Érito Marques, Cláudio Tinoco.
+
+Alunos: Lucas Maia e Rodrigo Gonçalves.
+
 # Motivação
 
 O Câncer de Tireoide representa o <b> 12° câncer mais comum </b>, com estimativas de 44.020 novos casos e 2.170 óbitos para 2024.
