@@ -29,6 +29,6 @@ Permitir a <b>avaliação dos fatores associados à maior probabilidade de recor
 
 <b>Possíveis melhorias:</b>
 - Identificação dos tipos e tempos de tratamento em cada caso.
-- Detalhamento das categorias.
+- Maior detalhamento das categorias.
 - Acompanhamento de um número maior de pacientes, objetivando também maior proporcionalidade dentro das categorias.
 - Criação de uma interface intuitiva para inserção de dados de novos pacientes e classificação do desfecho (risco de recorrência).
