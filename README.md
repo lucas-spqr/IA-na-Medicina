@@ -1,15 +1,15 @@
 # Motivação
 
-O Câncer de Tireoide representa o <b> 12° câncer mais comum </b>, com estimativas de 44.020 novos casos e 2.170 óbitos para 2024.
+O Câncer de Tireoide representa o <b> 12° câncer mais comum</b>, com estimativas de 44.020 novos casos e 2.170 óbitos para 2024.
 
-Apresenta uma <b> sobrevida média em 5 anos de 98,4%.</b> 
+Apresenta uma <b>sobrevida média em 5 anos de 98,4%.</b> 
 
-Os <b>subtipos histológicos diferenciados (papilífero, folicular) são os mais comuns (90%)</b>, apresentando excelente prognóstico, entretanto, <b>15% dos casos em follow-up durante tratamento inicial sofrem recorrência </b>, seja por disseminação tumoral não reconhecida inicialmente (caracterizando persistência), seja por possuir um componente biológico de maior agressividade.
+Os <b>subtipos histológicos diferenciados (papilífero, folicular) são os mais comuns (90%)</b>, apresentando excelente prognóstico, entretanto, <b>15% dos casos em follow-up durante tratamento inicial sofrem recorrência</b>, seja por disseminação tumoral não reconhecida inicialmente (caracterizando persistência), seja por possuir um componente biológico de maior agressividade.
 
 A maioria dos pacientes (> 90%) pode ser classificada nos estágios I e II a partir da classificação TNM, sendo as taxas de recorrência próximas a <b>13% (pacientes de baixo risco)</b>, <b>21 - 36% (pacientes de  moderado risco) </b> e <b>68% (pacientes de alto risco)</b>.
 
 > https://seer.cancer.gov/statfacts/html/thyro.html
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10216352/
+>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10216352/
 
 # Objetivo
 
