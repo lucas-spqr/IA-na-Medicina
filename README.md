@@ -9,6 +9,7 @@ Os <b>subtipos histológicos diferenciados (papilífero, folicular) são os mais
 A maioria dos pacientes (> 90%) pode ser classificada nos estágios I e II a partir da classificação TNM, sendo as taxas de recorrência próximas a <b>13% (pacientes de baixo risco)</b>, <b>21 - 36% (pacientes de  moderado risco) </b> e <b>68% (pacientes de alto risco)</b>.
 
 > https://seer.cancer.gov/statfacts/html/thyro.html
+
 >https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10216352/
 
 # Objetivo
